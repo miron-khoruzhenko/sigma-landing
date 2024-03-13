@@ -1,0 +1,38 @@
+//* ==================== + ==================== + ====================
+//* 
+//* 						The site was made by Miron Khoruzhenko
+//* 
+//*    Email:	mironkhoruzhenko@gmail.com
+//*  Website:	www.orinium.com
+//* LinkedIn:	https://www.linkedin.com/in/miron-khoruzhenko-164085202/
+//*   Github:	https://github.com/miron-khoruzhenko/
+//* 
+//* ==================== + ==================== + ====================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;600;700;900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap');
+
+@import './assets/styles/fonts.scss';
+
+*{
+	box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  // overflow-x: hidden; /* Это предотвратит вертикальный скролл */
+}
+
+html::-webkit-scrollbar {
+	display: none;
+}
+
+html{
+  scroll-behavior: smooth;
+}

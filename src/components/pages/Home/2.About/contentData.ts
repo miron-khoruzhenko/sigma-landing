@@ -1,0 +1,5 @@
+export const descr = 'Yıldız Teknik Üniversitesi bünyesinde 2012 yılında "YTU DBF" adıyla kurulan takımımız, 2019 yılında Sigma Aeronautics ismini alarak hem insansız hava aracı tasarlayan hem de ülkemiz havacılığında akademik ve endüstriyel çalışmalar yapan genel bir havacılık takımı olma adımı atmıştır. Bu doğrultuda her sene düzenli olarak, ABD’de gerçekleştirilen AIAA DBF (Design, Build and Fly) ve ülkemizde gerçekleştirilen Teknofest TÜBİTAK İHA yarışmasına katılmaktayız. Bu faaliyetlerin yanında TÜBİTAK projeleri, jet motor tasarımı gibi ek projelerimizi de sürdürmekteyiz. '
+
+export const mission = 'Teorik bilgiyi pratiğe dökme esasıyla gerçek bir mühendislik deneyimi yaşamak ve geleceğin havacılık teknolojilerine ülkemiz adına yön vermeye istekli YTÜ öğrencileri için ilk adımı atmak. '
+
+export const vision = 'Artan bir ivme ile gelişmekte olan havacılık teknolojileri içerisinde , Yıldız Teknik Üniversitesi’nin ülkemizde bu gelişime hız ve değer katan bir pozisyonda yer alması. ' 
